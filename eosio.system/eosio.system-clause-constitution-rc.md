@@ -59,5 +59,5 @@ A contract is deemed accepted when a member signs a transaction which incorporat
 # Article XIX - Counterparts
 This Constitution may be executed in any number of counterparts, each of which when executed and delivered shall constitute a duplicate original, but all counterparts together shall constitute a single agreement.
 
-# Article XV - Interim Constitution
+# Article XX - Interim Constitution
 This constitution is interim and is intended to remain in effect until a permanent constitution is written and ratified in a referendum.
